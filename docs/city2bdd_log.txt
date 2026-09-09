@@ -1,0 +1,199 @@
+Teaching epoch 0 : [ 100/4574 ] total loss: 2.8030786514282227
+Teaching epoch 0 : [ 200/4574 ] total loss: 1.2275967597961426
+Teaching epoch 0 : [ 300/4574 ] total loss: 2.8402223587036133
+Teaching epoch 0 : [ 400/4574 ] total loss: 1.8333038091659546
+Teaching epoch 0 : [ 500/4574 ] total loss: 2.7799341678619385
+Teaching epoch 0 : [ 600/4574 ] total loss: 2.8765363693237305
+Teaching epoch 0 : [ 700/4574 ] total loss: 2.0239477157592773
+Teaching epoch 0 : [ 800/4574 ] total loss: 2.230224609375
+Teaching epoch 0 : [ 900/4574 ] total loss: 2.033257484436035
+Teaching epoch 0 : [ 1000/4574 ] total loss: 2.82120943069458
+Teaching epoch 0 : [ 1100/4574 ] total loss: 1.39533531665802
+Teaching epoch 0 : [ 1200/4574 ] total loss: 1.8059395551681519
+Teaching epoch 0 : [ 1300/4574 ] total loss: 0.48908281326293945
+Teaching epoch 0 : [ 1400/4574 ] total loss: 1.7343720197677612
+Teaching epoch 0 : [ 1500/4574 ] total loss: 1.7198740243911743
+Teaching epoch 0 : [ 1600/4574 ] total loss: 2.12756085395813
+Teaching epoch 0 : [ 1700/4574 ] total loss: 1.1959271430969238
+Teaching epoch 0 : [ 1800/4574 ] total loss: 2.008573532104492
+Teaching epoch 0 : [ 1900/4574 ] total loss: 2.982889413833618
+Teaching epoch 0 : [ 2000/4574 ] total loss: 3.145411729812622
+Teaching epoch 0 : [ 2100/4574 ] total loss: 1.0729460716247559
+Teaching epoch 0 : [ 2200/4574 ] total loss: 2.199000835418701
+Teaching epoch 0 : [ 2300/4574 ] total loss: 2.250206470489502
+Teaching epoch 0 : [ 2400/4574 ] total loss: 2.133272409439087
+Teaching epoch 0 : [ 2500/4574 ] total loss: 2.01282000541687
+Teaching epoch 0 : [ 2600/4574 ] total loss: 2.1809000968933105
+Teaching epoch 0 : [ 2700/4574 ] total loss: 1.177712321281433
+Teaching epoch 0 : [ 2800/4574 ] total loss: 2.436944007873535
+Teaching epoch 0 : [ 2900/4574 ] total loss: 0.7831915616989136
+Teaching epoch 0 : [ 3000/4574 ] total loss: 1.3342735767364502
+Teaching epoch 0 : [ 3100/4574 ] total loss: 2.725111961364746
+Teaching epoch 0 : [ 3200/4574 ] total loss: 1.1684367656707764
+Teaching epoch 0 : [ 3300/4574 ] total loss: 1.1345694065093994
+Teaching epoch 0 : [ 3400/4574 ] total loss: 2.1200335025787354
+Teaching epoch 0 : [ 3500/4574 ] total loss: 2.06533145904541
+Teaching epoch 0 : [ 3600/4574 ] total loss: 1.5794421434402466
+Teaching epoch 0 : [ 3700/4574 ] total loss: 1.5181770324707031
+Teaching epoch 0 : [ 3800/4574 ] total loss: 1.042092204093933
+Teaching epoch 0 : [ 3900/4574 ] total loss: 2.9045166969299316
+Teaching epoch 0 : [ 4000/4574 ] total loss: 1.9425439834594727
+Teaching epoch 0 : [ 4100/4574 ] total loss: 2.766709327697754
+Teaching epoch 0 : [ 4200/4574 ] total loss: 1.9715311527252197
+Teaching epoch 0 : [ 4300/4574 ] total loss: 1.7064108848571777
+Teaching epoch 0 : [ 4400/4574 ] total loss: 1.6911852359771729
+Teaching epoch 0 : [ 4500/4574 ] total loss: 1.8002638816833496
+Teaching epoch 0 finished. Time cost: 1:35:05 Epoch loss: 1.8405630710307928, extra: 15826.0,training: 389632.0
+Evaluation : [ 100/655 ] total loss: [1.2869384]
+Evaluation : [ 200/655 ] total loss: [1.8969276]
+Evaluation : [ 300/655 ] total loss: [1.9279354]
+Evaluation : [ 400/655 ] total loss: [1.49403]
+Evaluation : [ 500/655 ] total loss: [0.62621737]
+Evaluation : [ 600/655 ] total loss: [2.6844184]
+Accumulating evaluation results...
+DONE (t=8.09s).
+Mean Average Precision (mAP) @ [ IoU=0.50 | area=all | max_dets=100 ] = 0.38766384524421105
+	AP of category [person]:		0.5074727852658768
+	AP of category [car]:		0.6602765195919823
+	AP of category [train]:		-1.0
+	AP of category [rider]:		0.3830325164498198
+	AP of category [truck]:		0.28717005920022
+	AP of category [motorcycle]:		0.26184927270140806
+	AP of category [bicycle]:		0.3270769231538927
+	AP of category [bus]:		0.28676884034627775
+Evaluation finished. Time cost: 0:02:06
+Saving checkpoints to outputs/def-detr-base/city2bdd/teaching_mask_d2mt_withddt/model_best.pth
+Best mAP50: 0.38766384524421105
+Teaching epoch 1 : [ 100/4574 ] total loss: 2.2082200050354004
+Teaching epoch 1 : [ 200/4574 ] total loss: 1.3076021671295166
+Teaching epoch 1 : [ 300/4574 ] total loss: 1.9730656147003174
+Teaching epoch 1 : [ 400/4574 ] total loss: 1.657580852508545
+Teaching epoch 1 : [ 500/4574 ] total loss: 1.6124541759490967
+Teaching epoch 1 : [ 600/4574 ] total loss: 2.633517265319824
+Teaching epoch 1 : [ 700/4574 ] total loss: 1.254162311553955
+Teaching epoch 1 : [ 800/4574 ] total loss: 1.346374273300171
+Teaching epoch 1 : [ 900/4574 ] total loss: 1.630082368850708
+Teaching epoch 1 : [ 1000/4574 ] total loss: 2.5012173652648926
+Teaching epoch 1 : [ 1100/4574 ] total loss: 0.9728366136550903
+Teaching epoch 1 : [ 1200/4574 ] total loss: 1.0628631114959717
+Teaching epoch 1 : [ 1300/4574 ] total loss: 0.7093536257743835
+Teaching epoch 1 : [ 1400/4574 ] total loss: 1.911026954650879
+Teaching epoch 1 : [ 1500/4574 ] total loss: 1.6146466732025146
+Teaching epoch 1 : [ 1600/4574 ] total loss: 1.885496973991394
+Teaching epoch 1 : [ 1700/4574 ] total loss: 1.24137544631958
+Teaching epoch 1 : [ 1800/4574 ] total loss: 2.7588162422180176
+Teaching epoch 1 : [ 1900/4574 ] total loss: 2.6068334579467773
+Teaching epoch 1 : [ 2000/4574 ] total loss: 2.803842306137085
+Teaching epoch 1 : [ 2100/4574 ] total loss: 0.7602261900901794
+Teaching epoch 1 : [ 2200/4574 ] total loss: 2.6014792919158936
+Teaching epoch 1 : [ 2300/4574 ] total loss: 1.4662792682647705
+Teaching epoch 1 : [ 2400/4574 ] total loss: 2.399702548980713
+Teaching epoch 1 : [ 2500/4574 ] total loss: 1.0680792331695557
+Teaching epoch 1 : [ 2600/4574 ] total loss: 2.177412509918213
+Teaching epoch 1 : [ 2700/4574 ] total loss: 1.2795963287353516
+Teaching epoch 1 : [ 2800/4574 ] total loss: 2.0341906547546387
+Teaching epoch 1 : [ 2900/4574 ] total loss: 0.6002365350723267
+Teaching epoch 1 : [ 3000/4574 ] total loss: 1.150774359703064
+Teaching epoch 1 : [ 3100/4574 ] total loss: 2.563119888305664
+Teaching epoch 1 : [ 3200/4574 ] total loss: 1.1191341876983643
+Teaching epoch 1 : [ 3300/4574 ] total loss: 1.318959355354309
+Teaching epoch 1 : [ 3400/4574 ] total loss: 2.2359373569488525
+Teaching epoch 1 : [ 3500/4574 ] total loss: 1.6332777738571167
+Teaching epoch 1 : [ 3600/4574 ] total loss: 1.0963959693908691
+Teaching epoch 1 : [ 3700/4574 ] total loss: 1.4259589910507202
+Teaching epoch 1 : [ 3800/4574 ] total loss: 1.2592384815216064
+Teaching epoch 1 : [ 3900/4574 ] total loss: 2.7844364643096924
+Teaching epoch 1 : [ 4000/4574 ] total loss: 1.7102904319763184
+Teaching epoch 1 : [ 4100/4574 ] total loss: 2.4461631774902344
+Teaching epoch 1 : [ 4200/4574 ] total loss: 1.7853524684906006
+Teaching epoch 1 : [ 4300/4574 ] total loss: 2.197732925415039
+Teaching epoch 1 : [ 4400/4574 ] total loss: 1.6546359062194824
+Teaching epoch 1 : [ 4500/4574 ] total loss: 1.8421138525009155
+Teaching epoch 1 finished. Time cost: 1:33:59 Epoch loss: 1.5968523361033158, extra: 16519.0,training: 408645.0
+Evaluation : [ 100/655 ] total loss: [1.1916305]
+Evaluation : [ 200/655 ] total loss: [1.6739249]
+Evaluation : [ 300/655 ] total loss: [1.8052123]
+Evaluation : [ 400/655 ] total loss: [1.4233682]
+Evaluation : [ 500/655 ] total loss: [0.61349887]
+Evaluation : [ 600/655 ] total loss: [2.7617884]
+Accumulating evaluation results...
+DONE (t=6.61s).
+Mean Average Precision (mAP) @ [ IoU=0.50 | area=all | max_dets=100 ] = 0.406169862943295
+	AP of category [person]:		0.5213823123849277
+	AP of category [car]:		0.6804869908801406
+	AP of category [train]:		-1.0
+	AP of category [rider]:		0.41421011185718964
+	AP of category [truck]:		0.3005123681986633
+	AP of category [motorcycle]:		0.30812953289385997
+	AP of category [bicycle]:		0.3452056252141338
+	AP of category [bus]:		0.27326209917415023
+Evaluation finished. Time cost: 0:02:08
+Saving checkpoints to outputs/def-detr-base/city2bdd/teaching_mask_d2mt_withddt/model_best.pth
+Best mAP50: 0.406169862943295
+Teaching epoch 2 : [ 100/4574 ] total loss: 2.1480190753936768
+Teaching epoch 2 : [ 200/4574 ] total loss: 1.3577057123184204
+Teaching epoch 2 : [ 300/4574 ] total loss: 2.402658700942993
+Teaching epoch 2 : [ 400/4574 ] total loss: 1.140093207359314
+Teaching epoch 2 : [ 500/4574 ] total loss: 2.116529941558838
+Teaching epoch 2 : [ 600/4574 ] total loss: 2.061370372772217
+Teaching epoch 2 : [ 700/4574 ] total loss: 1.8007371425628662
+Teaching epoch 2 : [ 800/4574 ] total loss: 1.7544043064117432
+Teaching epoch 2 : [ 900/4574 ] total loss: 1.2943850755691528
+Teaching epoch 2 : [ 1000/4574 ] total loss: 2.103966236114502
+Teaching epoch 2 : [ 1100/4574 ] total loss: 0.9465936422348022
+Teaching epoch 2 : [ 1200/4574 ] total loss: 1.4868310689926147
+Teaching epoch 2 : [ 1300/4574 ] total loss: 0.35117682814598083
+Teaching epoch 2 : [ 1400/4574 ] total loss: 1.4789645671844482
+Teaching epoch 2 : [ 1500/4574 ] total loss: 1.1724191904067993
+Teaching epoch 2 : [ 1600/4574 ] total loss: 2.100263833999634
+Teaching epoch 2 : [ 1700/4574 ] total loss: 1.4259672164916992
+Teaching epoch 2 : [ 1800/4574 ] total loss: 2.400334358215332
+Teaching epoch 2 : [ 1900/4574 ] total loss: 2.178865432739258
+Teaching epoch 2 : [ 2000/4574 ] total loss: 2.859107494354248
+Teaching epoch 2 : [ 2100/4574 ] total loss: 1.0806292295455933
+Teaching epoch 2 : [ 2200/4574 ] total loss: 2.7165892124176025
+Teaching epoch 2 : [ 2300/4574 ] total loss: 1.2756097316741943
+Teaching epoch 2 : [ 2400/4574 ] total loss: 2.1478021144866943
+Teaching epoch 2 : [ 2500/4574 ] total loss: 1.5374257564544678
+Teaching epoch 2 : [ 2600/4574 ] total loss: 1.636591911315918
+Teaching epoch 2 : [ 2700/4574 ] total loss: 1.728998064994812
+Teaching epoch 2 : [ 2800/4574 ] total loss: 1.7451053857803345
+Teaching epoch 2 : [ 2900/4574 ] total loss: 0.6996623277664185
+Teaching epoch 2 : [ 3000/4574 ] total loss: 1.1139487028121948
+Teaching epoch 2 : [ 3100/4574 ] total loss: 2.4434242248535156
+Teaching epoch 2 : [ 3200/4574 ] total loss: 1.3419582843780518
+Teaching epoch 2 : [ 3300/4574 ] total loss: 0.9995685815811157
+Teaching epoch 2 : [ 3400/4574 ] total loss: 2.2987871170043945
+Teaching epoch 2 : [ 3500/4574 ] total loss: 1.8350634574890137
+Teaching epoch 2 : [ 3600/4574 ] total loss: 0.9642309546470642
+Teaching epoch 2 : [ 3700/4574 ] total loss: 0.9768584370613098
+Teaching epoch 2 : [ 3800/4574 ] total loss: 0.8420573472976685
+Teaching epoch 2 : [ 3900/4574 ] total loss: 2.759002685546875
+Teaching epoch 2 : [ 4000/4574 ] total loss: 1.4993507862091064
+Teaching epoch 2 : [ 4100/4574 ] total loss: 1.902869701385498
+Teaching epoch 2 : [ 4200/4574 ] total loss: 1.5833182334899902
+Teaching epoch 2 : [ 4300/4574 ] total loss: 1.7980457544326782
+Teaching epoch 2 : [ 4400/4574 ] total loss: 1.9250667095184326
+Teaching epoch 2 : [ 4500/4574 ] total loss: 1.7277195453643799
+Teaching epoch 2 finished. Time cost: 1:33:52 Epoch loss: 1.5037810064145296, extra: 17923.0,training: 423618.0
+Evaluation : [ 100/655 ] total loss: [1.1052854]
+Evaluation : [ 200/655 ] total loss: [1.5656527]
+Evaluation : [ 300/655 ] total loss: [1.8454158]
+Evaluation : [ 400/655 ] total loss: [1.3666538]
+Evaluation : [ 500/655 ] total loss: [0.6143866]
+Evaluation : [ 600/655 ] total loss: [2.7960968]
+Accumulating evaluation results...
+DONE (t=6.44s).
+Mean Average Precision (mAP) @ [ IoU=0.50 | area=all | max_dets=100 ] = 0.40701799818956313
+	AP of category [person]:		0.5175894926694037
+	AP of category [car]:		0.6815971285415247
+	AP of category [train]:		-1.0
+	AP of category [rider]:		0.43161908495873813
+	AP of category [truck]:		0.303648748605646
+	AP of category [motorcycle]:		0.31360816559237326
+	AP of category [bicycle]:		0.36164963977526876
+	AP of category [bus]:		0.23941372718398735
+Evaluation finished. Time cost: 0:02:06
+Saving checkpoints to outputs/def-detr-base/city2bdd/teaching_mask_d2mt_withddt/model_best.pth
+Best mAP50: 0.40701799818956313
+Teaching finished. Time cost: 4:49:39 . Best mAP50: 0.40701799818956313

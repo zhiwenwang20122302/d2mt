@@ -1,0 +1,8 @@
+Pillow
+pycocotools==2.0.8
+tqdm
+cython
+scipy
+setuptools
+tensorboard
+pandas
