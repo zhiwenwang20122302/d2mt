@@ -74,8 +74,8 @@ The source pretrained weight of DefDETR-R50 can be downloaded from [DRU](https:/
 
 Then, you can use the following shell to train and evaluate ddt.
 ```bash
-bash configs/def-detr-base/city2foggy/teaching_mask_ddt.sh
-bash configs/def-detr-base/city2foggy/evaluation_teaching_mask_ddt.sh
+bash cconfigs/def-detr-base/city2foggy/teaching_mask_d2mt_withddt.sh
+bash configs/def-detr-base/city2foggy/evaluation_teaching_mask_d2mt_withddt.sh
 ```
 The training log file of city2foggy (best mAP = 47.6) is available at [log file](docs/city2foggy_log.txt)
 
